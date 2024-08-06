@@ -17,7 +17,7 @@ const routes = {
   "ecr.ggdzpj.cn": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.ggdzpj.cn": dockerHub,
 };
 
 function routeByHosts(host) {
